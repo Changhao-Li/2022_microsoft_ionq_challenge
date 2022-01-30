@@ -5,7 +5,8 @@ Masachusetts Institute of Technology, 2022 Jan
 
 3. Contact: changhao@mit.edu
 
-4. Included IonQ.ipynb: source code for creating circuits and running circuits on both ionQ simulator and gpu.
+4. Included IonQ.ipynb: source code for creating circuits and running circuits on both ionQ simulator and qpu.
+   Fig for key result: KeyResult_payoff.pdf
 
 5. Link for presentation of the work: https://docs.google.com/presentation/d/1Zpf4Tk2HvHyfmWVDCfaSGvTE0gYI7pJODs9Eowujq-g/edit?usp=sharing
 
