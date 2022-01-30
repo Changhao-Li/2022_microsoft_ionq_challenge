@@ -1,12 +1,13 @@
 ## Quantum prisoners:Implementing quantum game theory with trapped ions
 
 Authors:Wenchao Xu, Guoqing Wang, Changhao Li
+
 Masachusetts Institute of Technology, 2022 Jan
 
 Contact: changhao@mit.edu
 
 1. Included IonQ.ipynb: source code for creating circuits and running circuits on both ionQ simulator and qpu.
-   Fig for key result: KeyResult_payoff.pdf
+   Fig for key experimental result: KeyResult_payoff.pdf
 
 2. Link for presentation of the work: https://docs.google.com/presentation/d/1Zpf4Tk2HvHyfmWVDCfaSGvTE0gYI7pJODs9Eowujq-g/edit?usp=sharing
 
