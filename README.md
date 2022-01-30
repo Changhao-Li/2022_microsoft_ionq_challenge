@@ -6,7 +6,7 @@
 </p>
 
 
-## Quantum prisoners: Implementing quantum game theory with trapped ions
+## Quantum prison break: Implementing quantum game theory with trapped ions
 
 Authors:Wenchao Xu, Guoqing Wang, Changhao Li
 
