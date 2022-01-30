@@ -1,16 +1,16 @@
-1. Title: Quantum prisoners:Implementing quantum game theory with trapped ions
+## Quantum prisoners:Implementing quantum game theory with trapped ions
 
-2. Authors:Wenchao Xu, Guoqing Wang, Changhao Li
+Authors:Wenchao Xu, Guoqing Wang, Changhao Li
 Masachusetts Institute of Technology, 2022 Jan
 
-3. Contact: changhao@mit.edu
+Contact: changhao@mit.edu
 
-4. Included IonQ.ipynb: source code for creating circuits and running circuits on both ionQ simulator and qpu.
+1. Included IonQ.ipynb: source code for creating circuits and running circuits on both ionQ simulator and qpu.
    Fig for key result: KeyResult_payoff.pdf
 
-5. Link for presentation of the work: https://docs.google.com/presentation/d/1Zpf4Tk2HvHyfmWVDCfaSGvTE0gYI7pJODs9Eowujq-g/edit?usp=sharing
+2. Link for presentation of the work: https://docs.google.com/presentation/d/1Zpf4Tk2HvHyfmWVDCfaSGvTE0gYI7pJODs9Eowujq-g/edit?usp=sharing
 
-5. Project Description:
+3. Project Description:
 
 Games are not only fun for people to play, the theory of games is also an important discipline of applied mathematics,
 which has found numerous applications in psychology, ecology and social science. While well-established framework has been
@@ -29,7 +29,7 @@ new quantum strategies without analogue in traditional games. Theory of quantum 
 On the educational side, we hope this quantum game can let our community appreciate the importance of cooperating, for addressing
 some global challenges such as climate change.
 
-6. Personal Experience:
+4. Personal Experience:
 
 We really appreciate the iQuHack Committee and sponsors for the opportunity to collaborate and cooperate on a fun quantum game project
 using Microsoft/IonQ online simulator and quantum computers. The tutorials provided by the organizers really navigate us through the 
