@@ -12,7 +12,7 @@ Authors:Wenchao Xu, Guoqing Wang, Changhao Li
 
 Masachusetts Institute of Technology, 2022 Jan
 
-Contact: changhao@mit.edu
+Contact: wenchao@mit.edu, gq_wang@mit.edu, changhao@mit.edu.
 
 ## Files Included 
 IonQ.ipynb: source code for creating circuits and running circuits on both ionQ simulator and qpu.
